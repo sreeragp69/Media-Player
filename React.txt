@@ -1,0 +1,80 @@
+
+REACT ----js library 
+------------------------------------
+
+Basic Commeands
+
+--  To reate project :     npx create-react-app ProjectName
+--  To Run Project    :     npm start
+--  To Install react material UI :     npm install @mui/material @emotion/react @emotion/styled
+--  To Build a project :           
+
+
+
+
+BASIC CONCEPTS
+--------------
+
+    Singale Page Application 
+    Reusable component based apporach
+    JSX --- JS + XML
+
+
+FROND -END DIFFRECE
+
+    Concept:--          Angular                    React                    Vue
+    --------------------------------------------------------------------------------------------
+    1.Developer         framework-Google           Library-FaceBook         Framework-OpenSource
+
+    2.Language          TypeScript                 JavaScript               JavaScript
+
+    3.DOM               real DOM                   Virtual DOM              Virtual DOM
+
+    4.Data Sharing      Two data binding           One way data binding     Two way data binding
+                        (can use more api's)         
+
+
+==> REACT is a component based Application
+
+
+components:
+
+            * Create ajs file having a name starts with capital letter
+            
+            * Two types of components :
+             
+                 1. Class based components :>     Stateful components
+
+                 2. function baced components :>  Stateless components
+
+                                                REACT HOOK: It a predefined functions and name start with use keyword.
+
+                                                HOW TO CREATE HOOK:-
+                                                                    use predefined-function()
+                                                                    use state()
+                
+                State creation syntax:
+                    const[statename,statevalueupadtionfunction]=useState()
+
+
+State: It is used to store values and(Also it has an adv to transfer value) we can share state to child component
+
+Props: It is used to share data b/w parent and child.
+
+       Conditional Rendering:
+
+
+
+
+
+    🛑Craete watch History
+
+    1. Create a watch History tab in home Page.
+
+    2. create a component for watch History.
+
+    3. Show that data in Table format.
+
+    4. Create a watch History key in db.json. 
+
+    5. Get watch History from json File to watch History component. 

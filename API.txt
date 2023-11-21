@@ -1,0 +1,35 @@
+New project using API CRUD Operation
+
+------------------------------------
+
+REACT App using JSON server
+
+---------------------------
+
+Objective 
+
+create a web appilcation using REACT js with  the below problem statement
+
+        problem statement:-
+
+
+        Create an appilcation where the following functionalitiess are present
+
+        1. User can Raad, Delete, Edit card.
+        2. The card must contain name and video/mp3 link.
+        3. The user has the flexibility to create bucket to categories and Card according to his/her choice.
+        4. User can move a cards to diffrent bucket.
+        5. On Clicking on the card a model with an iframe should open which starts playing the video.
+        6. User can create Delete a single card or multiple cards under a single bucket at once
+        7. There should be a separate tab called history which list the mp3/mp4 links that you have played.
+
+                i.e the card name the link and the item it was played.
+
+
+                TECH STACK
+                ----------
+
+                1. Front-end : REACT.
+                2. Back-end  : Create use JSON server.
+                3. Any additional stacks/tools as per your performance.
+
